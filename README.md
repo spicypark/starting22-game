@@ -2,6 +2,8 @@
 
 An American football franchise game for the browser. Take over one of 32 teams and run everything: the roster and depth chart, contracts under a salary cap, the draft, free agency, trades, staff, and facilities. Then chase the League Championship.
 
+Note: features are constantly being added, edited, or removed from the beta deployment
+
 **[▶ Play Starting22 (beta)](https://spicypark.github.io/Starting22/)**
 
 ![Starting22 title screen](title.png)
