@@ -26,11 +26,11 @@ An American football franchise game for the browser. Take over one of 32 teams a
 - League awards, records, a Hall of Fame, retired numbers and a season-by-season career history
 - Up to 5 careers saved in your browser, with export and import
 
-![The franchise home screen](homepage.png)
-
 ![A pass in the air in a live game](cleargame.png)
 
 ![A rain game](raingame.png)
+
+![The franchise home screen](homepage.png)
 
 ![Picking a play from the audible list](audibles.png)
 
