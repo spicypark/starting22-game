@@ -14,6 +14,7 @@ An American football franchise game for the browser. Take over one of 32 teams a
 - Pick your defense each drive (Balanced, Blitz or Prevent) and watch it play out
 - Rain and snow games, overtime, fumbles, interceptions and injuries
 - Personnel and starters/backups lineups, in-game stats, and a short tutorial
+- Four selectable jersey combinations per team
 - Or quick sim any game
 
 **The franchise**
